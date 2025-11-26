@@ -1,7 +1,3 @@
-Here is a short and professional `README.md` file for your GitHub repository based on your project **"Mathematical Modelling of Cervical Cancer with HPV Infection"**:
-
----
-
 # Mathematical Modelling of Cervical Cancer 
 
 This repository contains a mathematical model to study the dynamics of **cervical cancer progression** caused by persistent **HPV (Human Papillomavirus) infection**. The project was developed as part of an academic research initiative at IIIT Kalyani.
